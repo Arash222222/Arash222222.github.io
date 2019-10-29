@@ -1,0 +1,27 @@
+const myString = "Learning javascript";
+const myFirstNumericVarible = 3;
+var oldStyle = "This is the way we used to do it";
+let newChanglableStyle ="this allows you to declare a variable that can be changed";
+const contantVarialble = "this variable can not be changed.except ....";
+const myBoolean = true;
+const myNull = null;
+let myUndefined;
+
+
+myString ='Learning more js in class';
+
+my 
+
+
+const quotable = 'he said , "Hello". that \'s all folks.';
+
+console.log(myString);
+console.log(typeof myString);
+console.log(myFirstNumericVarible);
+console.log('type', typeof myFirstNumericVarible);
+const.log('TYPE', typeof myBoolean);
+
+
+
+
+

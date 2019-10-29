@@ -1,0 +1,110 @@
+body {
+    background-color: aquamarine;
+
+    max-width: 500px;
+    margin: auto;
+
+}
+
+
+
+
+header p {
+    font-weight: bold;
+    color: blue;
+}
+
+
+main
+
+nav {        
+    background-color: aliceblue;
+    border: 1px green solid;
+    padding: 8px;
+    margin: -1px 0px 0px 0px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+nav li {
+    display: inline;
+    padding: 8px;    
+}
+
+
+<footer>{
+
+background-color: aliceblue;
+border: black slide thin;
+
+}
+</footer>
+
+figure.left{
+
+
+}
+
+
+
+h1 {
+    color: blue;
+    font-size: 25px;
+}
+
+h2 {
+    color: green;
+    font-size: 20px;
+}
+
+/* 
+controls the style of a class
+*/
+
+.red-heading {
+    color: red;
+}
+
+
+/* 
+controls the style of a id new font
+*/
+
+#new-font {
+    font-family: fantasy;
+}
+
+.foo{
+
+
+}
+
+.btn-padding{
+
+    border-width: 
+}
+
+/*   comment out
+
+*/
+
+.btn-margin-padding{
+
+
+}
+#button-wrapper{
+    background-color: 
+    display:inline-black;
+}
+
+.btn-padding:hover{
+
+    background-color:   aqua;
+    border-color: white;
+}
+
